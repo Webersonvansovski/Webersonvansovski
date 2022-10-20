@@ -1,7 +1,7 @@
  <details>
  <summary>Um pouco sobre mim!
   
- Ola, me chamo Weberson Medeiros Vansovski.
+ Ola, me chamo Weberson Vansovski.
   
  Comecei na área de programação a alguns mêses via o curso da HashtagProgramação, pretendo me especializar na área o mais rapido possivel!
   Atualmente Programo em PYTHON.
