@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
  </div>
   
 <div align="center" style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" height="60" style="vertical-align:top;margin:4px">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebersonVansovski&layout=compact&langs_count=7&theme=synthwave"/>
 
   
