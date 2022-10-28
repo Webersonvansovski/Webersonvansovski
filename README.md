@@ -3,7 +3,7 @@
   
  Ola, me chamo Weberson Vansovski.
   
- Comecei na área de programação a alguns mêses via o curso PythonImpressionador da HashtagTreinamentos, pretendo me especializar na área o mais rapido possivel!
+ Comecei na área de programação a alguns mêses via o curso Python Impressionador da Hashtag Treinamentos, pretendo me especializar na área o mais rapido possivel!
   Atualmente Programo em PYTHON.
 <!---
 Webersonvansovski/Webersonvansovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
