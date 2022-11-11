@@ -20,8 +20,4 @@ Um pouco sobre mim!<br>  <br> Ola, me chamo Weberson Vansovski.<br>  <br> Comece
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=WebersonVansovski&icon=2&color=1)](https://visitcount.itsvg.in)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
