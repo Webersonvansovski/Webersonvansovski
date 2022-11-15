@@ -12,6 +12,18 @@ Um pouco sobre mim!<br>  <br> Ola, me chamo Weberson Vansovski.<br>  <br> Comece
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+Familiarizado com as bibliotecas/Frameworks:
+
+Criação de sites e APIs: Request, Flask, Django.
+
+Ciência de dados e inteligência artificial: Pandas, Numpy.
+
+Visualização de dados: Ploty, Matplotlib, Seaborn.
+
+Automações: Selenium, PyAutoGUI, Pyodbc.
+
+Criação de interfaces gráficos: Tkinter, Kivy.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WebersonVansovski&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WebersonVansovski&theme=radical&hide_border=false)<br/>
