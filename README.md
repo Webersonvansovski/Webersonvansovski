@@ -1,5 +1,5 @@
 # 💫 About Me:
-Um pouco sobre mim!<br>  <br> Ola, me chamo Weberson Vansovski.<br>  <br> Comecei na área de programação a alguns mêses via o curso Python Impressionador da Hashtag Treinamentos, pretendo me especializar na área o mais rapido possivel!<br>  Atualmente Programo em PYTHON.<br>
+Um pouco sobre mim!<br>  <br> Olá, me chamo Weberson Vansovski.<br>  <br> Comecei na área de programação a alguns meses via o curso Python Impressionador da Hashtag Treinamentos, pretendo me especializar na área o mais rápido possível!<br>  Atualmente Programo em PYTHON.<br>
 
 
 ## 🌐 Socials:
